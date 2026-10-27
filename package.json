@@ -1,0 +1,1 @@
+{"name":"norda-tech-supplies","private":true,"version":"3.0.0","type":"module","scripts":{"build":"node build-site.mjs","start":"node preview.mjs","check":"node verify-build.mjs","optimize":"node optimize-assets.mjs"},"devDependencies":{"sharp":"0.35.5"}}
