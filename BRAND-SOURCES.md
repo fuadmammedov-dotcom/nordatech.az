@@ -1,0 +1,70 @@
+# Brand logo sources
+
+Logos are reproduced as manufacturer identifiers in the supply catalogue. They do not indicate partnership, distributor or authorised reseller status. Vector paths and colours are retained from the listed sources.
+
+- HP: assets/brands/hp.svg — https://brandcentral.hp.com/us/en/elements/hp-logo.html — collection: https://github.com/simple-icons/simple-icons
+- Dell: assets/brands/dell.svg — https://www.dell.com — collection: https://github.com/simple-icons/simple-icons
+- Lenovo: assets/brands/lenovo.svg — https://news.lenovo.com/press-kits/ — collection: https://github.com/simple-icons/simple-icons
+- Apple: assets/brands/apple.svg — https://www.apple.com — collection: https://github.com/simple-icons/simple-icons
+- ASUS: assets/brands/asus.svg — https://www.asus.com — collection: https://github.com/simple-icons/simple-icons
+- Acer: assets/brands/acer.svg — https://www.acer.com — collection: https://github.com/simple-icons/simple-icons
+- MSI: assets/brands/msi.svg — https://www.msi.com/page/brochure — collection: https://github.com/simple-icons/simple-icons
+- Intel: assets/brands/intel.svg — https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html — collection: https://github.com/simple-icons/simple-icons
+- AMD: assets/brands/amd.svg — https://www.amd.com — collection: https://github.com/simple-icons/simple-icons
+- NVIDIA: assets/brands/nvidia.svg — https://www.nvidia.com/en-us — collection: https://github.com/simple-icons/simple-icons
+- HPE: assets/brands/hpe.svg — https://www.logo.wine/a/logo/Hewlett_Packard_Enterprise/Hewlett_Packard_Enterprise-Logo.wine.svg — collection: https://www.logo.wine/
+- Dell Technologies: assets/brands/delltechnologies.svg — https://www.dell.com — collection: https://github.com/simple-icons/simple-icons
+- Supermicro: assets/brands/supermicro.svg — https://www.supermicro.com/manuals/supermicro_logo_guidelines.pdf — collection: https://github.com/simple-icons/simple-icons
+- Synology: assets/brands/synology.svg — https://www.synology.com/en-global/company/branding — collection: https://github.com/simple-icons/simple-icons
+- QNAP: assets/brands/qnap.svg — https://marketing.qnap.com/resource/qnap-logo-k100 — collection: https://github.com/simple-icons/simple-icons
+- NetApp: assets/brands/netapp.svg — https://www.netapp.com — collection: https://github.com/simple-icons/simple-icons
+- Seagate: assets/brands/seagate.svg — https://branding.seagate.com/productpage/3fc51aba-c35a-4eff-a833-a258b0440bd2 — collection: https://github.com/simple-icons/simple-icons
+- Western Digital: assets/brands/westerndigital.svg — https://cdn.worldvectorlogo.com/logos/western-digital.svg — collection: https://worldvectorlogo.com/
+- Kingston: assets/brands/kingston.svg — https://cdn.worldvectorlogo.com/logos/kingston-1.svg — collection: https://worldvectorlogo.com/
+- Cisco: assets/brands/cisco.svg — https://www.cisco.com — collection: https://github.com/simple-icons/simple-icons
+- HPE Aruba Networking: assets/brands/hpearubanetworking.svg — https://cdn.worldvectorlogo.com/logos/aruba-networks.svg — collection: https://worldvectorlogo.com/
+- Juniper Networks: assets/brands/junipernetworks.svg — https://www.juniper.net/us/en/company/press-center/images/image-library/logos/ — collection: https://github.com/simple-icons/simple-icons
+- Ubiquiti: assets/brands/ubiquiti.svg — https://www.ui.com — collection: https://github.com/simple-icons/simple-icons
+- MikroTik: assets/brands/mikrotik.svg — https://mikrotik.com/aboutus — collection: https://github.com/simple-icons/simple-icons
+- TP-Link: assets/brands/tplink.svg — https://www.tp-link.com — collection: https://github.com/simple-icons/simple-icons
+- D-Link: assets/brands/dlink.svg — https://cdn.worldvectorlogo.com/logos/d-link.svg — collection: https://worldvectorlogo.com/
+- Fortinet: assets/brands/fortinet.svg — https://www.fortinet.com — collection: https://github.com/simple-icons/simple-icons
+- Sophos: assets/brands/sophos.svg — https://cdn.worldvectorlogo.com/logos/sophos.svg — collection: https://worldvectorlogo.com/
+- Palo Alto Networks: assets/brands/paloaltonetworks.svg — https://www.paloaltonetworks.com — collection: https://github.com/simple-icons/simple-icons
+- Samsung: assets/brands/samsung.svg — https://www.samsung.com/us/about-us/brand-identity/logo/ — collection: https://github.com/simple-icons/simple-icons
+- LG: assets/brands/lg.svg — https://www.lg.com/global/our-brand/brand-expression/elements/logo/index.jsp — collection: https://github.com/simple-icons/simple-icons
+- Philips: assets/brands/philips.svg — https://cdn.worldvectorlogo.com/logos/philips.svg — collection: https://worldvectorlogo.com/
+- BenQ: assets/brands/benq.svg — https://cdn.worldvectorlogo.com/logos/benq.svg — collection: https://worldvectorlogo.com/
+- ViewSonic: assets/brands/viewsonic.svg — https://cdn.worldvectorlogo.com/logos/viewsonic.svg — collection: https://worldvectorlogo.com/
+- Hikvision: assets/brands/hikvision.svg — https://www.logo.wine/a/logo/Hikvision/Hikvision-Logo.wine.svg — collection: https://www.logo.wine/
+- Dahua: assets/brands/dahua.png — https://www.dahuasecurity.com/logo.png — collection: https://www.dahuasecurity.com
+- Axis: assets/brands/axis.svg — https://cdn.worldvectorlogo.com/logos/axis-1.svg — collection: https://worldvectorlogo.com/
+- ZKTeco: assets/brands/zkteco.png — https://wp.logos-download.com/wp-content/uploads/2020/06/ZKTeco_Logo-700x212.png — collection: https://logos-download.com/51569-zkteco-logo-download.html
+- Suprema: assets/brands/suprema.svg — https://www.supremainc.com/en/asset_m/images/common/m_logo.svg — collection: https://www.supremainc.com
+- Canon: assets/brands/canon.svg — https://www.logo.wine/a/logo/Canon_Inc./Canon_Inc.-Logo.wine.svg — collection: https://www.logo.wine/
+- Epson: assets/brands/epson.svg — https://global.epson.com/IR/library/ — collection: https://github.com/simple-icons/simple-icons
+- Brother: assets/brands/brother.svg — https://cdn.worldvectorlogo.com/logos/brother.svg — collection: https://worldvectorlogo.com/
+- Xerox: assets/brands/xerox.svg — https://cdn.worldvectorlogo.com/logos/xerox.svg — collection: https://worldvectorlogo.com/
+- Kyocera: assets/brands/kyocera.svg — https://uk.kyocera.com — collection: https://github.com/simple-icons/simple-icons
+- Ricoh: assets/brands/ricoh.svg — https://cdn.worldvectorlogo.com/logos/ricoh.svg — collection: https://worldvectorlogo.com/
+- Zebra: assets/brands/zebra.svg — https://www.zebra.com — collection: https://github.com/simple-icons/simple-icons
+- Honeywell: assets/brands/honeywell.svg — https://cdn.worldvectorlogo.com/logos/honeywell.svg — collection: https://worldvectorlogo.com/
+- Datalogic: assets/brands/datalogic.svg — https://cdn.worldvectorlogo.com/logos/datalogic.svg — collection: https://worldvectorlogo.com/
+- Logitech: assets/brands/logitech.svg — https://cdn.worldvectorlogo.com/logos/logitech-2.svg — collection: https://worldvectorlogo.com/
+- Yealink: assets/brands/yealink.png — https://www.yealink.com/public/images/logo_2021_en.png — collection: https://www.yealink.com
+- Grandstream: assets/brands/grandstream.png — https://www.grandstream.com/hs-fs/hubfs/raw_assets/public/Grandstream_Feb_2021/images/logo-grandstream-low-web.png?width=600&height=204&name=logo-grandstream-low-web.png — collection: https://www.grandstream.com
+- Jabra: assets/brands/jabra.svg — https://cdn.worldvectorlogo.com/logos/jabra.svg — collection: https://worldvectorlogo.com/
+- Poly: assets/brands/poly.svg — https://www.poly.com — collection: https://github.com/simple-icons/simple-icons
+- Fanvil: assets/brands/fanvil.png — https://www.fanvil.com/template/en/images/logo.png — collection: https://www.fanvil.com
+- APC: assets/brands/apc.svg — https://cdn.worldvectorlogo.com/logos/apc.svg — collection: https://worldvectorlogo.com/
+- Eaton: assets/brands/eaton.svg — https://cdn.worldvectorlogo.com/logos/eaton.svg — collection: https://worldvectorlogo.com/
+- Vertiv: assets/brands/vertiv.svg — https://www.vertiv.com/Content/images/phase3/about/timeline/Vertiv-Logo.svg — collection: https://www.vertiv.com
+- Microsoft: assets/brands/microsoft.svg — https://cdn.worldvectorlogo.com/logos/microsoft-6.svg — collection: https://worldvectorlogo.com/
+- Adobe: assets/brands/adobe.svg — https://cdn.worldvectorlogo.com/logos/adobe-2.svg — collection: https://worldvectorlogo.com/
+- Autodesk: assets/brands/autodesk.svg — https://brand.autodesk.com/brand-system/logo — collection: https://github.com/simple-icons/simple-icons
+- Veeam: assets/brands/veeam.svg — https://www.veeam.com/newsroom/veeam-graphics.html — collection: https://github.com/simple-icons/simple-icons
+- ESET: assets/brands/eset.svg — https://www.logo.wine/a/logo/ESET/ESET-Logo.wine.svg — collection: https://www.logo.wine/
+- Bitdefender: assets/brands/bitdefender.svg — https://brand.bitdefender.com — collection: https://github.com/simple-icons/simple-icons
+- CommScope: assets/brands/commscope.svg — https://www.logo.wine/a/logo/CommScope/CommScope-Logo.wine.svg — collection: https://www.logo.wine/
+- Belden: assets/brands/belden.svg — https://cdn.worldvectorlogo.com/logos/belden.svg — collection: https://worldvectorlogo.com/
+- Fluke Networks: assets/brands/flukenetworks.svg — https://www.fluke.com — collection: https://github.com/simple-icons/simple-icons

@@ -1,0 +1,497 @@
+[
+  {
+    "name": "HP",
+    "status": "ok",
+    "file": "assets/brands/hp.svg",
+    "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "0096D6"
+  },
+  {
+    "name": "Dell",
+    "status": "ok",
+    "file": "assets/brands/dell.svg",
+    "source": "https://www.dell.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "007DB8"
+  },
+  {
+    "name": "Lenovo",
+    "status": "ok",
+    "file": "assets/brands/lenovo.svg",
+    "source": "https://news.lenovo.com/press-kits/",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "E2231A"
+  },
+  {
+    "name": "Apple",
+    "status": "ok",
+    "file": "assets/brands/apple.svg",
+    "source": "https://www.apple.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "000000"
+  },
+  {
+    "name": "ASUS",
+    "status": "ok",
+    "file": "assets/brands/asus.svg",
+    "source": "https://www.asus.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "000000"
+  },
+  {
+    "name": "Acer",
+    "status": "ok",
+    "file": "assets/brands/acer.svg",
+    "source": "https://www.acer.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "83B81A"
+  },
+  {
+    "name": "MSI",
+    "status": "ok",
+    "file": "assets/brands/msi.svg",
+    "source": "https://www.msi.com/page/brochure",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "FF0000"
+  },
+  {
+    "name": "Intel",
+    "status": "ok",
+    "file": "assets/brands/intel.svg",
+    "source": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "0071C5"
+  },
+  {
+    "name": "AMD",
+    "status": "ok",
+    "file": "assets/brands/amd.svg",
+    "source": "https://www.amd.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "ED1C24"
+  },
+  {
+    "name": "NVIDIA",
+    "status": "ok",
+    "file": "assets/brands/nvidia.svg",
+    "source": "https://www.nvidia.com/en-us",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "76B900"
+  },
+  {
+    "name": "HPE",
+    "status": "ok",
+    "file": "assets/brands/hpe.svg",
+    "source": "https://www.logo.wine/a/logo/Hewlett_Packard_Enterprise/Hewlett_Packard_Enterprise-Logo.wine.svg",
+    "assetSource": "https://www.logo.wine/"
+  },
+  {
+    "name": "Dell Technologies",
+    "status": "ok",
+    "file": "assets/brands/delltechnologies.svg",
+    "source": "https://www.dell.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "007DB8"
+  },
+  {
+    "name": "Supermicro",
+    "status": "ok",
+    "file": "assets/brands/supermicro.svg",
+    "source": "https://www.supermicro.com/manuals/supermicro_logo_guidelines.pdf",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "151F6D"
+  },
+  {
+    "name": "Synology",
+    "status": "ok",
+    "file": "assets/brands/synology.svg",
+    "source": "https://www.synology.com/en-global/company/branding",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "B5B5B6"
+  },
+  {
+    "name": "QNAP",
+    "status": "ok",
+    "file": "assets/brands/qnap.svg",
+    "source": "https://marketing.qnap.com/resource/qnap-logo-k100",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "0C2E82"
+  },
+  {
+    "name": "NetApp",
+    "status": "ok",
+    "file": "assets/brands/netapp.svg",
+    "source": "https://www.netapp.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "0067C5"
+  },
+  {
+    "name": "Seagate",
+    "status": "ok",
+    "file": "assets/brands/seagate.svg",
+    "source": "https://branding.seagate.com/productpage/3fc51aba-c35a-4eff-a833-a258b0440bd2",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "6EBE49"
+  },
+  {
+    "name": "Western Digital",
+    "status": "ok",
+    "file": "assets/brands/westerndigital.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/western-digital.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Kingston",
+    "status": "ok",
+    "file": "assets/brands/kingston.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/kingston-1.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Cisco",
+    "status": "ok",
+    "file": "assets/brands/cisco.svg",
+    "source": "https://www.cisco.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "1BA0D7"
+  },
+  {
+    "name": "HPE Aruba Networking",
+    "status": "ok",
+    "file": "assets/brands/hpearubanetworking.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/aruba-networks.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Juniper Networks",
+    "status": "ok",
+    "file": "assets/brands/junipernetworks.svg",
+    "source": "https://www.juniper.net/us/en/company/press-center/images/image-library/logos/",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "84B135"
+  },
+  {
+    "name": "Ubiquiti",
+    "status": "ok",
+    "file": "assets/brands/ubiquiti.svg",
+    "source": "https://www.ui.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "0559C9"
+  },
+  {
+    "name": "MikroTik",
+    "status": "ok",
+    "file": "assets/brands/mikrotik.svg",
+    "source": "https://mikrotik.com/aboutus",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "293239"
+  },
+  {
+    "name": "TP-Link",
+    "status": "ok",
+    "file": "assets/brands/tplink.svg",
+    "source": "https://www.tp-link.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "4ACBD6"
+  },
+  {
+    "name": "D-Link",
+    "status": "ok",
+    "file": "assets/brands/dlink.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/d-link.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Fortinet",
+    "status": "ok",
+    "file": "assets/brands/fortinet.svg",
+    "source": "https://www.fortinet.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "EE3124"
+  },
+  {
+    "name": "Sophos",
+    "status": "ok",
+    "file": "assets/brands/sophos.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/sophos.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "status": "ok",
+    "file": "assets/brands/paloaltonetworks.svg",
+    "source": "https://www.paloaltonetworks.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "F04E23"
+  },
+  {
+    "name": "Samsung",
+    "status": "ok",
+    "file": "assets/brands/samsung.svg",
+    "source": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "1428A0"
+  },
+  {
+    "name": "LG",
+    "status": "ok",
+    "file": "assets/brands/lg.svg",
+    "source": "https://www.lg.com/global/our-brand/brand-expression/elements/logo/index.jsp",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "A50034"
+  },
+  {
+    "name": "Philips",
+    "status": "ok",
+    "file": "assets/brands/philips.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/philips.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "BenQ",
+    "status": "ok",
+    "file": "assets/brands/benq.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/benq.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "ViewSonic",
+    "status": "ok",
+    "file": "assets/brands/viewsonic.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/viewsonic.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Hikvision",
+    "status": "ok",
+    "file": "assets/brands/hikvision.svg",
+    "source": "https://www.logo.wine/a/logo/Hikvision/Hikvision-Logo.wine.svg",
+    "assetSource": "https://www.logo.wine/"
+  },
+  {
+    "name": "Dahua",
+    "status": "ok",
+    "file": "assets/brands/dahua.png",
+    "source": "https://www.dahuasecurity.com/logo.png",
+    "assetSource": "https://www.dahuasecurity.com"
+  },
+  {
+    "name": "Axis",
+    "status": "ok",
+    "file": "assets/brands/axis.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/axis-1.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "ZKTeco",
+    "status": "ok",
+    "file": "assets/brands/zkteco.png",
+    "source": "https://wp.logos-download.com/wp-content/uploads/2020/06/ZKTeco_Logo-700x212.png",
+    "assetSource": "https://logos-download.com/51569-zkteco-logo-download.html"
+  },
+  {
+    "name": "Suprema",
+    "status": "ok",
+    "file": "assets/brands/suprema.svg",
+    "source": "https://www.supremainc.com/en/asset_m/images/common/m_logo.svg",
+    "assetSource": "https://www.supremainc.com"
+  },
+  {
+    "name": "Canon",
+    "status": "ok",
+    "file": "assets/brands/canon.svg",
+    "source": "https://www.logo.wine/a/logo/Canon_Inc./Canon_Inc.-Logo.wine.svg",
+    "assetSource": "https://www.logo.wine/"
+  },
+  {
+    "name": "Epson",
+    "status": "ok",
+    "file": "assets/brands/epson.svg",
+    "source": "https://global.epson.com/IR/library/",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "003399"
+  },
+  {
+    "name": "Brother",
+    "status": "ok",
+    "file": "assets/brands/brother.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/brother.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Xerox",
+    "status": "ok",
+    "file": "assets/brands/xerox.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/xerox.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Kyocera",
+    "status": "ok",
+    "file": "assets/brands/kyocera.svg",
+    "source": "https://uk.kyocera.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "DF0522"
+  },
+  {
+    "name": "Ricoh",
+    "status": "ok",
+    "file": "assets/brands/ricoh.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/ricoh.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Zebra",
+    "status": "ok",
+    "file": "assets/brands/zebra.svg",
+    "source": "https://www.zebra.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "000000"
+  },
+  {
+    "name": "Honeywell",
+    "status": "ok",
+    "file": "assets/brands/honeywell.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/honeywell.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Datalogic",
+    "status": "ok",
+    "file": "assets/brands/datalogic.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/datalogic.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Logitech",
+    "status": "ok",
+    "file": "assets/brands/logitech.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/logitech-2.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Yealink",
+    "status": "ok",
+    "file": "assets/brands/yealink.png",
+    "source": "https://www.yealink.com/public/images/logo_2021_en.png",
+    "assetSource": "https://www.yealink.com"
+  },
+  {
+    "name": "Grandstream",
+    "status": "ok",
+    "file": "assets/brands/grandstream.png",
+    "source": "https://www.grandstream.com/hs-fs/hubfs/raw_assets/public/Grandstream_Feb_2021/images/logo-grandstream-low-web.png?width=600&height=204&name=logo-grandstream-low-web.png",
+    "assetSource": "https://www.grandstream.com"
+  },
+  {
+    "name": "Jabra",
+    "status": "ok",
+    "file": "assets/brands/jabra.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/jabra.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Poly",
+    "status": "ok",
+    "file": "assets/brands/poly.svg",
+    "source": "https://www.poly.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "EB3C00"
+  },
+  {
+    "name": "Fanvil",
+    "status": "ok",
+    "file": "assets/brands/fanvil.png",
+    "source": "https://www.fanvil.com/template/en/images/logo.png",
+    "assetSource": "https://www.fanvil.com"
+  },
+  {
+    "name": "APC",
+    "status": "ok",
+    "file": "assets/brands/apc.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/apc.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Eaton",
+    "status": "ok",
+    "file": "assets/brands/eaton.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/eaton.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Vertiv",
+    "status": "ok",
+    "file": "assets/brands/vertiv.svg",
+    "source": "https://www.vertiv.com/Content/images/phase3/about/timeline/Vertiv-Logo.svg",
+    "assetSource": "https://www.vertiv.com"
+  },
+  {
+    "name": "Microsoft",
+    "status": "ok",
+    "file": "assets/brands/microsoft.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/microsoft-6.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Adobe",
+    "status": "ok",
+    "file": "assets/brands/adobe.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/adobe-2.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Autodesk",
+    "status": "ok",
+    "file": "assets/brands/autodesk.svg",
+    "source": "https://brand.autodesk.com/brand-system/logo",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "000000"
+  },
+  {
+    "name": "Veeam",
+    "status": "ok",
+    "file": "assets/brands/veeam.svg",
+    "source": "https://www.veeam.com/newsroom/veeam-graphics.html",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "00B336"
+  },
+  {
+    "name": "ESET",
+    "status": "ok",
+    "file": "assets/brands/eset.svg",
+    "source": "https://www.logo.wine/a/logo/ESET/ESET-Logo.wine.svg",
+    "assetSource": "https://www.logo.wine/"
+  },
+  {
+    "name": "Bitdefender",
+    "status": "ok",
+    "file": "assets/brands/bitdefender.svg",
+    "source": "https://brand.bitdefender.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "ED1C24"
+  },
+  {
+    "name": "CommScope",
+    "status": "ok",
+    "file": "assets/brands/commscope.svg",
+    "source": "https://www.logo.wine/a/logo/CommScope/CommScope-Logo.wine.svg",
+    "assetSource": "https://www.logo.wine/"
+  },
+  {
+    "name": "Belden",
+    "status": "ok",
+    "file": "assets/brands/belden.svg",
+    "source": "https://cdn.worldvectorlogo.com/logos/belden.svg",
+    "assetSource": "https://worldvectorlogo.com/"
+  },
+  {
+    "name": "Fluke Networks",
+    "status": "ok",
+    "file": "assets/brands/flukenetworks.svg",
+    "source": "https://www.fluke.com",
+    "assetSource": "https://github.com/simple-icons/simple-icons",
+    "hex": "FFC20E"
+  }
+]
