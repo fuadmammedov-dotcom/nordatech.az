@@ -1,0 +1,1 @@
+# nordatech.az
